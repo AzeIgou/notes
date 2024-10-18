@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.DnxPABkT.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"program/index.md","filePath":"program/index.md"}'),a={name:"program/index.md"};function o(n,s,c,d,i,p){return r(),t("div")}const f=e(a,[["render",o]]);export{_ as __pageData,f as default};
